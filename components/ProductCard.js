@@ -19,7 +19,7 @@ function ProductCard({ item, onEdit }) {
       </View>
 
       {/* Product Name & Brand/Size */}
-      <Text style={styles.name} numberOfLines={2}>
+      <Text style={styles.name}>
         {item.name}
       </Text>
       <Text style={styles.meta} numberOfLines={1}>
