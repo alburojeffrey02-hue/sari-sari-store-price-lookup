@@ -1,23 +1,13 @@
 {
   "expo": {
-    "name": "judithas-store",
+    "name": "Juditha's Store",
     "slug": "judithas-store",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "com.alburo.judithasstore"
     },
     "plugins": [
       "expo-sqlite"
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "bc104211-e5db-4599-b33f-fddd650827a4"
-      }
-    },
-    "android": {
-      "package": "com.fejii.judithasstore"
-    }
+    ]
   }
 }
