@@ -14,13 +14,6 @@
     "category": "Snacks"
   },
   {
-    "name": "Jellybee Chocolate",
-    "brand": "Jellybee",
-    "unit_size": "1 pack",
-    "price": 27.2,
-    "category": "Snacks"
-  },
-  {
     "name": "Mentos Fruit Candy",
     "brand": "Mentos",
     "unit_size": "6 pieces",
@@ -56,13 +49,6 @@
     "category": "Snacks"
   },
   {
-    "name": "Gelatin Assorted 12s",
-    "brand": "Generic",
-    "unit_size": "12s pack",
-    "price": 13.75,
-    "category": "Snacks"
-  },
-  {
     "name": "Mik-Mik Sweetened Milk Powder",
     "brand": "Mik-Mik",
     "unit_size": "1 sachet",
@@ -88,13 +74,6 @@
     "brand": "Leslie's",
     "unit_size": "1 pack",
     "price": 10.0,
-    "category": "Snacks"
-  },
-  {
-    "name": "Pretzels Milk",
-    "brand": "Jack 'n Jill",
-    "unit_size": "1 pack",
-    "price": 7.8,
     "category": "Snacks"
   },
   {
@@ -130,13 +109,6 @@
     "brand": "Bear Brand",
     "unit_size": "33g",
     "price": 12.0,
-    "category": "Beverages"
-  },
-  {
-    "name": "Bear Brand Fortified Swak Pack (10s)",
-    "brand": "Bear Brand",
-    "unit_size": "33g x 10",
-    "price": 88.0,
     "category": "Beverages"
   },
   {
@@ -280,13 +252,6 @@
     "category": "Personal Care"
   },
   {
-    "name": "Pond's Hydrating Facial Foam",
-    "brand": "Pond's",
-    "unit_size": "1 tube",
-    "price": 97.05,
-    "category": "Personal Care"
-  },
-  {
     "name": "Hapee Toothpaste Eco Tube",
     "brand": "Hapee",
     "unit_size": "1 tube",
@@ -322,7 +287,7 @@
     "category": "Household"
   },
   {
-    "name": "Del Forever Joy",
+    "name": "Del Fabric Conditioner",
     "brand": "Del",
     "unit_size": "1 sachet",
     "price": 5.0,
@@ -334,13 +299,6 @@
     "unit_size": "1 sachet",
     "price": 7.0,
     "category": "Household"
-  },
-  {
-    "name": "Colgate Great Regular (2 Dozen Bundle)",
-    "brand": "Colgate",
-    "unit_size": "24 sachets",
-    "price": 211.6,
-    "category": "Personal Care"
   },
   {
     "name": "Ariel Detergent Powder",
@@ -420,13 +378,6 @@
     "category": "Household"
   },
   {
-    "name": "Posh Ultra Sanitary Napkin",
-    "brand": "Posh",
-    "unit_size": "1 pack",
-    "price": 96.8,
-    "category": "Personal Care"
-  },
-  {
     "name": "Vitakeratin Treatment",
     "brand": "Vitakeratin",
     "unit_size": "1 sachet",
@@ -487,13 +438,6 @@
     "brand": "Sunsilk",
     "unit_size": "1 sachet",
     "price": 8.0,
-    "category": "Personal Care"
-  },
-  {
-    "name": "Pond's Pinkish Glow",
-    "brand": "Pond's",
-    "unit_size": "1 sachet/tube",
-    "price": 95.05,
     "category": "Personal Care"
   },
   {
@@ -840,7 +784,7 @@
     "category": "Condiments & Cooking"
   },
   {
-    "name": "Silver Swan Soy Sauce Bottle",
+    "name": "Silver Swan Soy Sauce Big",
     "brand": "Silver Swan",
     "unit_size": "1 bottle",
     "price": 14.0,
@@ -1057,13 +1001,6 @@
     "category": "Condiments & Cooking"
   },
   {
-    "name": "Emi Standard Noodles",
-    "brand": "Emi",
-    "unit_size": "1 pack",
-    "price": 19.8,
-    "category": "Food"
-  },
-  {
     "name": "Wings Detergent Powder Floral",
     "brand": "Wings",
     "unit_size": "1 sachet",
@@ -1225,13 +1162,6 @@
     "category": "Snacks"
   },
   {
-    "name": "Stick-O Wafer Stick",
-    "brand": "Stick-O",
-    "unit_size": "2 pieces",
-    "price": 5.0,
-    "category": "Snacks"
-  },
-  {
     "name": "Nissin Eggnog Cookies",
     "brand": "Nissin",
     "unit_size": "1 pack",
@@ -1390,13 +1320,6 @@
     "brand": "Beng-Beng",
     "unit_size": "1 piece",
     "price": 10.0,
-    "category": "Snacks"
-  },
-  {
-    "name": "Kendi Mint Candy",
-    "brand": "Kendi",
-    "unit_size": "4 pieces",
-    "price": 5.0,
     "category": "Snacks"
   },
   {
