@@ -1,0 +1,1430 @@
+[
+  {
+    "name": "SkyFlakes Crackers",
+    "brand": "M.Y. San",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "White Rabbit Candy",
+    "brand": "White Rabbit",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Jellybee Chocolate",
+    "brand": "Jellybee",
+    "unit_size": "1 pack",
+    "price": 27.2,
+    "category": "Snacks"
+  },
+  {
+    "name": "Mentos Fruit Candy",
+    "brand": "Mentos",
+    "unit_size": "6 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Mentos Mini",
+    "brand": "Mentos",
+    "unit_size": "1 roll",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "ABC Chocolate",
+    "brand": "ABC",
+    "unit_size": "12g",
+    "price": 2.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Jellyum Ice Pop Original",
+    "brand": "Jellyum",
+    "unit_size": "1 piece",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Jellee-C Assorted",
+    "brand": "Jellee-C",
+    "unit_size": "1 cup",
+    "price": 2.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Gelatin Assorted 12s",
+    "brand": "Generic",
+    "unit_size": "12s pack",
+    "price": 13.75,
+    "category": "Snacks"
+  },
+  {
+    "name": "Mik-Mik Sweetened Milk Powder",
+    "brand": "Mik-Mik",
+    "unit_size": "1 sachet",
+    "price": 1.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Choco Marble",
+    "brand": "Generic",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Flower Mallow",
+    "brand": "Generic",
+    "unit_size": "1 pack",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Choco Knot",
+    "brand": "Leslie's",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Pretzels Milk",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 7.8,
+    "category": "Snacks"
+  },
+  {
+    "name": "I Cool Menthol Candy",
+    "brand": "I Cool",
+    "unit_size": "1 piece",
+    "price": 1.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Berry Knots",
+    "brand": "Leslie's",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Charmee Breathable Pantyliner",
+    "brand": "Charmee",
+    "unit_size": "1 pad",
+    "price": 3.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Cal Cheese Wafer",
+    "brand": "Cal Cheese",
+    "unit_size": "20g",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Bear Brand Fortified Powdered Milk",
+    "brand": "Bear Brand",
+    "unit_size": "33g",
+    "price": 12.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Bear Brand Fortified Swak Pack (10s)",
+    "brand": "Bear Brand",
+    "unit_size": "33g x 10",
+    "price": 88.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Cherub Scented Wipes",
+    "brand": "Cherub",
+    "unit_size": "1 pack",
+    "price": 22.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Modess Cottony Soft",
+    "brand": "Modess",
+    "unit_size": "1 pad",
+    "price": 5.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sisters Overnight Sanitary Napkin",
+    "brand": "Sisters",
+    "unit_size": "1 pad",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sisters Night Plus Violet",
+    "brand": "Sisters",
+    "unit_size": "1 pad",
+    "price": 7.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sisters Regular Flow Pink",
+    "brand": "Sisters",
+    "unit_size": "1 pad",
+    "price": 6.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sisters Pantyliner",
+    "brand": "Sisters",
+    "unit_size": "1 pad",
+    "price": 2.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sisters Ultra Thin",
+    "brand": "Sisters",
+    "unit_size": "1 pad",
+    "price": 5.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Babyflo Cotton Buds (72 Tips)",
+    "brand": "Babyflo",
+    "unit_size": "72 tips",
+    "price": 15.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Babyflo Cotton Buds (36 Tips)",
+    "brand": "Babyflo",
+    "unit_size": "36 tips",
+    "price": 11.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Gillette Rubie Razor",
+    "brand": "Gillette",
+    "unit_size": "1 piece",
+    "price": 24.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Green Cross Isopropyl Alcohol 70%",
+    "brand": "Green Cross",
+    "unit_size": "1 bottle",
+    "price": 23.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Efficascent Oil",
+    "brand": "Efficascent",
+    "unit_size": "1 bottle",
+    "price": 30.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Electro Tawas Pink",
+    "brand": "Electro",
+    "unit_size": "1 sachet",
+    "price": 14.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Tawas Powder Red",
+    "brand": "Generic",
+    "unit_size": "1 sachet",
+    "price": 11.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Hailey's Tawas Blue",
+    "brand": "Hailey's",
+    "unit_size": "1 sachet",
+    "price": 18.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Hailey's Tawas Violet",
+    "brand": "Hailey's",
+    "unit_size": "1 sachet",
+    "price": 18.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Rexona Deodorant Sachet",
+    "brand": "Rexona",
+    "unit_size": "1 sachet",
+    "price": 9.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Rexona Deodorant Lotion",
+    "brand": "Rexona",
+    "unit_size": "1 sachet",
+    "price": 9.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Rhea Agua Oxigenada / Sapromatic",
+    "brand": "Rhea",
+    "unit_size": "1 bottle",
+    "price": 40.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Tender Care Soap",
+    "brand": "Tender Care",
+    "unit_size": "1 bar",
+    "price": 18.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Pond's Hydrating Facial Foam",
+    "brand": "Pond's",
+    "unit_size": "1 tube",
+    "price": 97.05,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Hapee Toothpaste Eco Tube",
+    "brand": "Hapee",
+    "unit_size": "1 tube",
+    "price": 60.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Colgate Great Regular Flavor",
+    "brand": "Colgate",
+    "unit_size": "1 tube",
+    "price": 50.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Surf Powder Rose Fresh",
+    "brand": "Surf",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Sunsilk Shampoo Smooth & Manageable",
+    "brand": "Sunsilk",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Surf Fabric Conditioner Lovely Pink",
+    "brand": "Surf",
+    "unit_size": "1 sachet",
+    "price": 6.0,
+    "category": "Household"
+  },
+  {
+    "name": "Del Fabric Conditioner",
+    "brand": "Del",
+    "unit_size": "1 sachet",
+    "price": 5.0,
+    "category": "Household"
+  },
+  {
+    "name": "Surf Fabric Conditioner Lavender Pink",
+    "brand": "Surf",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Household"
+  },
+  {
+    "name": "Colgate Great Regular (2 Dozen Bundle)",
+    "brand": "Colgate",
+    "unit_size": "24 sachets",
+    "price": 211.6,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Ariel Detergent Powder",
+    "brand": "Ariel",
+    "unit_size": "1 sachet",
+    "price": 15.0,
+    "category": "Household"
+  },
+  {
+    "name": "Tide Powder with Downy",
+    "brand": "Tide",
+    "unit_size": "1 sachet",
+    "price": 15.0,
+    "category": "Household"
+  },
+  {
+    "name": "Downy Sunrise Fresh",
+    "brand": "Downy",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Palmolive Naturals Shampoo",
+    "brand": "Palmolive",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Downy Mystique Violet",
+    "brand": "Downy",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Cream Silk Hair Fall Defense",
+    "brand": "Cream Silk",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Close-Up Red Hot Toothpaste",
+    "brand": "Close-Up",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Cream Silk Triple Keratin Rescue",
+    "brand": "Cream Silk",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Safeguard Bath Soap",
+    "brand": "Safeguard",
+    "unit_size": "1 bar",
+    "price": 18.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Surf Fabric Conditioner Luxe Perfume Red",
+    "brand": "Surf",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Household"
+  },
+  {
+    "name": "Downy Garden Bloom Pink",
+    "brand": "Downy",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Posh Ultra Sanitary Napkin",
+    "brand": "Posh",
+    "unit_size": "1 pack",
+    "price": 96.8,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Vitakeratin Treatment",
+    "brand": "Vitakeratin",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Head & Shoulders Shampoo",
+    "brand": "Head & Shoulders",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Clear Men Shampoo",
+    "brand": "Clear",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Dove Shampoo Straight & Silky",
+    "brand": "Dove",
+    "unit_size": "1 sachet",
+    "price": 9.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Gard Shampoo Refreshing Menthol",
+    "brand": "Gard",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Cream Silk Ultimate Reborn",
+    "brand": "Cream Silk",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Rejoice Shampoo Rich Soft Smooth",
+    "brand": "Rejoice",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Dove Shampoo Straight",
+    "brand": "Dove",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Sunsilk Shampoo Sakura",
+    "brand": "Sunsilk",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Pond's Pinkish Glow",
+    "brand": "Pond's",
+    "unit_size": "1 sachet/tube",
+    "price": 95.05,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Bioderm Germicidal Soap",
+    "brand": "Bioderm",
+    "unit_size": "1 bar",
+    "price": 20.0,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Holiday Vienna Sausage",
+    "brand": "Holiday",
+    "unit_size": "1 can",
+    "price": 20.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Fiesta Beef Loaf",
+    "brand": "Fiesta",
+    "unit_size": "1 can",
+    "price": 26.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "RAM Pork & Beans",
+    "brand": "RAM",
+    "unit_size": "1 can",
+    "price": 24.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Australian Carne Norte",
+    "brand": "Australian",
+    "unit_size": "1 can",
+    "price": 30.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Young's Town Sardines",
+    "brand": "Young's Town",
+    "unit_size": "1 can",
+    "price": 28.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Wow Ulam Caldereta",
+    "brand": "Wow Ulam",
+    "unit_size": "1 can",
+    "price": 25.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Mega Sardines",
+    "brand": "Mega",
+    "unit_size": "1 can",
+    "price": 28.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Argentina Beef Loaf",
+    "brand": "Argentina",
+    "unit_size": "1 can",
+    "price": 22.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Alaska Evaporada",
+    "brand": "Alaska",
+    "unit_size": "1 can",
+    "price": 35.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Lucky 7 Sardines",
+    "brand": "Lucky 7",
+    "unit_size": "1 can",
+    "price": 21.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Fresca Tuna Afritada",
+    "brand": "Fresca",
+    "unit_size": "1 can",
+    "price": 30.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Angel Evaporada",
+    "brand": "Angel",
+    "unit_size": "1 can",
+    "price": 33.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Argentina Corned Beef",
+    "brand": "Argentina",
+    "unit_size": "1 can",
+    "price": 38.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Cowbell Condensada",
+    "brand": "Cowbell",
+    "unit_size": "1 can",
+    "price": 45.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Jersey Sweetened Condensed Creamer",
+    "brand": "Jersey",
+    "unit_size": "1 can",
+    "price": 45.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Holiday Beef Loaf",
+    "brand": "Holiday",
+    "unit_size": "1 can",
+    "price": 23.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Andy Player Whisky",
+    "brand": "Andy Player",
+    "unit_size": "1 bottle",
+    "price": 100.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Tanduay Rhum (Big / Long Neck)",
+    "brand": "Tanduay",
+    "unit_size": "750ml",
+    "price": 170.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Tanduay Rhum Light",
+    "brand": "Tanduay",
+    "unit_size": "750ml",
+    "price": 150.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Tanduay Select",
+    "brand": "Tanduay",
+    "unit_size": "750ml",
+    "price": 160.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Emperador Light",
+    "brand": "Emperador",
+    "unit_size": "750ml",
+    "price": 230.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Tanduay Rhum (Small / Lapad)",
+    "brand": "Tanduay",
+    "unit_size": "375ml",
+    "price": 90.0,
+    "category": "Liquor"
+  },
+  {
+    "name": "Datu Puti Oyster Sauce",
+    "brand": "Datu Puti",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Top Cafe Palm Sugar",
+    "brand": "Top Cafe",
+    "unit_size": "1 sachet",
+    "price": 15.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Great Taste Premium Coffee",
+    "brand": "Great Taste",
+    "unit_size": "1 sachet",
+    "price": 14.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Great Taste White Twin Pack",
+    "brand": "Great Taste",
+    "unit_size": "1 twin pack",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Milo Active-Go",
+    "brand": "Nestlé",
+    "unit_size": "1 sachet",
+    "price": 11.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Nescafé Classic Stick",
+    "brand": "Nescafé",
+    "unit_size": "1 stick",
+    "price": 5.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Angel Kremdensada",
+    "brand": "Angel",
+    "unit_size": "1 can",
+    "price": 55.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Nestlé Coffee-mate",
+    "brand": "Nestlé",
+    "unit_size": "1 sachet",
+    "price": 3.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Energen Chocolate",
+    "brand": "Energen",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Birch Tree Fortified Milk",
+    "brand": "Birch Tree",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Energen Vanilla",
+    "brand": "Energen",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Kopiko Black 3-in-1",
+    "brand": "Kopiko",
+    "unit_size": "1 sachet",
+    "price": 9.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Ovaltine Powdered Chocolate Drink",
+    "brand": "Ovaltine",
+    "unit_size": "20g",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Bear Brand Powdered Milk Sachet",
+    "brand": "Bear Brand",
+    "unit_size": "1 sachet",
+    "price": 10.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Great Taste Premium Stick",
+    "brand": "Great Taste",
+    "unit_size": "1 stick",
+    "price": 4.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Nescafé 3-in-1 Creamy White Twin",
+    "brand": "Nescafé",
+    "unit_size": "1 twin pack",
+    "price": 16.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Nescafé Original",
+    "brand": "Nescafé",
+    "unit_size": "1 sachet",
+    "price": 9.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Kopiko Brown Coffee Twin",
+    "brand": "Kopiko",
+    "unit_size": "1 twin pack",
+    "price": 15.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Don Sebio Tablea",
+    "brand": "Don Sebio",
+    "unit_size": "1 piece",
+    "price": 8.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Kopiko Supremo",
+    "brand": "Kopiko",
+    "unit_size": "1 sachet",
+    "price": 5.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "San Mig Coffee 3-in-1",
+    "brand": "San Mig",
+    "unit_size": "1 sachet",
+    "price": 7.0,
+    "category": "Beverages"
+  },
+  {
+    "name": "Lucky Me! Pancit Canton Original",
+    "brand": "Lucky Me!",
+    "unit_size": "1 pack",
+    "price": 14.0,
+    "category": "Food"
+  },
+  {
+    "name": "Lucky Me! Instant Mami Chicken",
+    "brand": "Lucky Me!",
+    "unit_size": "1 pack",
+    "price": 11.0,
+    "category": "Food"
+  },
+  {
+    "name": "Lucky Me! Instant Mami Beef",
+    "brand": "Lucky Me!",
+    "unit_size": "1 pack",
+    "price": 11.0,
+    "category": "Food"
+  },
+  {
+    "name": "Crispy Fry Breading Mix Original",
+    "brand": "Ajinomoto",
+    "unit_size": "1 sachet",
+    "price": 13.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Knorr Sinigang sa Sampalok Original",
+    "brand": "Knorr",
+    "unit_size": "1 sachet",
+    "price": 17.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Silver Swan Soy Sauce Bottle",
+    "brand": "Silver Swan",
+    "unit_size": "1 bottle",
+    "price": 14.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Nestlé All Purpose Cream",
+    "brand": "Nestlé",
+    "unit_size": "250ml",
+    "price": 65.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Star Wax Floor Wax Dye",
+    "brand": "Star Wax",
+    "unit_size": "1 pack",
+    "price": 23.0,
+    "category": "Household"
+  },
+  {
+    "name": "RAM Raisins",
+    "brand": "RAM",
+    "unit_size": "30g",
+    "price": 20.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "RAM Pork & Beans Sachet",
+    "brand": "RAM",
+    "unit_size": "1 pouch",
+    "price": 17.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Bigboy Dried Pancit",
+    "brand": "Bigboy",
+    "unit_size": "1 pack",
+    "price": 5.0,
+    "category": "Food"
+  },
+  {
+    "name": "Bigboy Odong Noodles",
+    "brand": "Bigboy",
+    "unit_size": "1 pack",
+    "price": 2.0,
+    "category": "Food"
+  },
+  {
+    "name": "Bigboy Misua White",
+    "brand": "Bigboy",
+    "unit_size": "1 pack",
+    "price": 4.0,
+    "category": "Food"
+  },
+  {
+    "name": "Fidel Iodized Salt",
+    "brand": "Fidel",
+    "unit_size": "1 pack",
+    "price": 14.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Ajinomoto Umami Seasoning",
+    "brand": "Ajinomoto",
+    "unit_size": "11g",
+    "price": 4.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "RAM Black Beans",
+    "brand": "RAM",
+    "unit_size": "1 pouch",
+    "price": 18.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Silver Swan Vinegar Pouch",
+    "brand": "Silver Swan",
+    "unit_size": "1 pouch",
+    "price": 10.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Maggi Magic Sarap",
+    "brand": "Maggi",
+    "unit_size": "1 sachet",
+    "price": 6.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Silver Swan Soy Sauce Pouch",
+    "brand": "Silver Swan",
+    "unit_size": "1 pouch",
+    "price": 7.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Knorr Pork Cube",
+    "brand": "Knorr",
+    "unit_size": "1 cube",
+    "price": 8.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Mama Sita's Oyster Sauce Sachet",
+    "brand": "Mama Sita's",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Knorr Sinigang sa Sampalok with Gabi",
+    "brand": "Knorr",
+    "unit_size": "1 sachet",
+    "price": 18.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Silver Swan Soy Sauce Sachet",
+    "brand": "Silver Swan",
+    "unit_size": "1 sachet",
+    "price": 3.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Good Life Bihon",
+    "brand": "Good Life",
+    "unit_size": "1 pack",
+    "price": 28.0,
+    "category": "Food"
+  },
+  {
+    "name": "Del Monte Pineapple Tidbits",
+    "brand": "Del Monte",
+    "unit_size": "1 pouch",
+    "price": 20.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Jolly Pieces & Stems Mushrooms",
+    "brand": "Jolly",
+    "unit_size": "1 can",
+    "price": 22.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "RAM Green Peas",
+    "brand": "RAM",
+    "unit_size": "1 pouch",
+    "price": 13.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Mega Prime Whole Kernel Corn",
+    "brand": "Mega Prime",
+    "unit_size": "1 can",
+    "price": 22.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Jolly Mixed Mushrooms",
+    "brand": "Jolly",
+    "unit_size": "1 can",
+    "price": 22.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Jolly Whole Kernel Corn",
+    "brand": "Jolly",
+    "unit_size": "1 can",
+    "price": 23.0,
+    "category": "Canned Goods"
+  },
+  {
+    "name": "Papa Banana Catsup",
+    "brand": "Papa",
+    "unit_size": "1 pouch",
+    "price": 12.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Del Monte Tomato Sauce",
+    "brand": "Del Monte",
+    "unit_size": "1 pouch",
+    "price": 23.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Lucky Me! Pancit Canton Chilimansi",
+    "brand": "Lucky Me!",
+    "unit_size": "1 pack",
+    "price": 23.0,
+    "category": "Food"
+  },
+  {
+    "name": "Good Life Bread Crumbs",
+    "brand": "Good Life",
+    "unit_size": "1 pack",
+    "price": 20.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Lucky Me! Pancit Canton Sweet & Spicy",
+    "brand": "Lucky Me!",
+    "unit_size": "1 pack",
+    "price": 23.0,
+    "category": "Food"
+  },
+  {
+    "name": "Coco Mama Fresh Gata",
+    "brand": "Coco Mama",
+    "unit_size": "200ml",
+    "price": 38.0,
+    "category": "Condiments & Cooking"
+  },
+  {
+    "name": "Emi Standard Noodles",
+    "brand": "Emi",
+    "unit_size": "1 pack",
+    "price": 19.8,
+    "category": "Food"
+  },
+  {
+    "name": "Wings Detergent Powder Floral",
+    "brand": "Wings",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Wings Detergent Powder Calamansi",
+    "brand": "Wings",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Surf Laundry Bar Sun Fresh",
+    "brand": "Surf",
+    "unit_size": "1 bar",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Wings Laundry Bar",
+    "brand": "Wings",
+    "unit_size": "1 bar",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Speed Laundry Bar Kalamansi",
+    "brand": "Speed",
+    "unit_size": "1 bar",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Speed Detergent Powder",
+    "brand": "Speed",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Wings Laundry Bar Sakura",
+    "brand": "Wings",
+    "unit_size": "1 bar",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Smart Dishwashing Paste Lemon/Kalamansi",
+    "brand": "Smart",
+    "unit_size": "1 tub",
+    "price": 28.0,
+    "category": "Household"
+  },
+  {
+    "name": "Calla Detergent Powder",
+    "brand": "Calla",
+    "unit_size": "1 sachet",
+    "price": 8.0,
+    "category": "Household"
+  },
+  {
+    "name": "Bathroom Tissue Roll",
+    "brand": "Generic",
+    "unit_size": "1 roll",
+    "price": 10.0,
+    "category": "Household"
+  },
+  {
+    "name": "Zonrox Bleach Violet",
+    "brand": "Zonrox",
+    "unit_size": "1 bottle",
+    "price": 32.0,
+    "category": "Household"
+  },
+  {
+    "name": "Zonrox Bleach Lemon",
+    "brand": "Zonrox",
+    "unit_size": "1 bottle",
+    "price": 20.0,
+    "category": "Household"
+  },
+  {
+    "name": "Zonrox Bleach Original",
+    "brand": "Zonrox",
+    "unit_size": "1 bottle",
+    "price": 20.0,
+    "category": "Household"
+  },
+  {
+    "name": "Perla Laundry Bar Blue",
+    "brand": "Perla",
+    "unit_size": "1 bar",
+    "price": 20.0,
+    "category": "Household"
+  },
+  {
+    "name": "Perla Laundry Bar White",
+    "brand": "Perla",
+    "unit_size": "1 bar",
+    "price": 20.0,
+    "category": "Household"
+  },
+  {
+    "name": "Surf Laundry Bar Purple",
+    "brand": "Surf",
+    "unit_size": "1 bar",
+    "price": 15.0,
+    "category": "Household"
+  },
+  {
+    "name": "Nissin Iced Gem Biscuits Choco",
+    "brand": "Nissin",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Super Crunch Corn Chips",
+    "brand": "Prifood",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Regent Cheese Ball",
+    "brand": "Regent",
+    "unit_size": "25g",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Regent Cheese Ring",
+    "brand": "Regent",
+    "unit_size": "25g",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Coco Creambar Ice Cream Cone",
+    "brand": "Generic",
+    "unit_size": "1 piece",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Super Delights Brownie Bites",
+    "brand": "Prifood",
+    "unit_size": "1 pack",
+    "price": 6.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Cream-O Sandwich Cookies Original",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Stick-O Wafer Stick",
+    "brand": "Stick-O",
+    "unit_size": "2 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Nissin Eggnog Cookies",
+    "brand": "Nissin",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Nissin Classic Choco Wafer",
+    "brand": "Nissin",
+    "unit_size": "1 pack",
+    "price": 4.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Magic Flakes Crackers",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 9.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Presto Creams Peanut Butter",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Nissin Wafer Stick",
+    "brand": "Nissin",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Cheez-It Ham & Cheese",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Moby Crunchy Chocolate Puffs",
+    "brand": "Oishi",
+    "unit_size": "80g",
+    "price": 21.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Oishi Prawn Crackers",
+    "brand": "Oishi",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Richee Milk Crunch",
+    "brand": "Oishi",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Piattos Nacho Pizza / Sour Cream",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 18.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Oishi Fish Crackers",
+    "brand": "Oishi",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Oishi Ribbed Cracklings",
+    "brand": "Oishi",
+    "unit_size": "1 pack",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Tiger Biscuits Golden Vanilla/Strawberry",
+    "brand": "Tiger",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Nissin Butter Coconut Biscuits",
+    "brand": "Nissin",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Kopiko Coffee Candy",
+    "brand": "Kopiko",
+    "unit_size": "4 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Fres Mint Candy",
+    "brand": "Fres",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Yakee Sour Gum",
+    "brand": "Yakee",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Tiger Bites Vanilla",
+    "brand": "Tiger",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "M.Y. San Fita Crackers",
+    "brand": "M.Y. San",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "M.Y. San Graham Crackers",
+    "brand": "M.Y. San",
+    "unit_size": "1 pack",
+    "price": 48.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Pintoora Gumball",
+    "brand": "Pintoora",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Tiger Energy Chocolate Biscuits",
+    "brand": "Tiger",
+    "unit_size": "1 pack",
+    "price": 8.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Beng-Beng Chocolate Wafer",
+    "brand": "Beng-Beng",
+    "unit_size": "1 piece",
+    "price": 10.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Kendi Mint Candy",
+    "brand": "Kendi",
+    "unit_size": "4 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Potchi Strawberry Gummy",
+    "brand": "Potchi",
+    "unit_size": "3 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Maxx Menthol Candy",
+    "brand": "Jack 'n Jill",
+    "unit_size": "1 pack",
+    "price": 3.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Gold Coin Chocolate",
+    "brand": "Gold Coin",
+    "unit_size": "4 pieces",
+    "price": 5.0,
+    "category": "Snacks"
+  },
+  {
+    "name": "Batata Jelly Pop",
+    "brand": "Batata",
+    "unit_size": "1 piece",
+    "price": 2.0,
+    "category": "Snacks"
+  }
+]
