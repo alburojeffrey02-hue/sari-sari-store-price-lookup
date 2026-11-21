@@ -45,15 +45,20 @@ function StoreCatalogScreen() {
     loadProducts();
   }, [loadProducts]);
 
-  const handleOpenAdd = () => {
+  const handleOpenAdd = useCallback(() => {
     setEditingProduct(null);
     setModalVisible(true);
-  };
+  }, []);
 
-  const handleOpenEdit = (item) => {
+  const handleOpenEdit = useCallback((item) => {
     setEditingProduct(item);
     setModalVisible(true);
-  };
+  }, []);
+
+  const renderProduct = useCallback(
+    ({ item }) => <ProductCard item={item} onEdit={handleOpenEdit} />,
+    [handleOpenEdit]
+  );
 
   const handleSaveProduct = async (data) => {
     if (data.id) {
@@ -128,9 +133,7 @@ function StoreCatalogScreen() {
           keyExtractor={(item) => String(item.id)}
           numColumns={2}
           contentContainerStyle={styles.gridContent}
-          renderItem={({ item }) => (
-            <ProductCard item={item} onEdit={handleOpenEdit} />
-          )}
+          renderItem={renderProduct}
           ListEmptyComponent={
             <Text style={styles.emptyText}>
               No products found matching "{searchQuery}".

@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 
-export default function ProductCard({ item, onEdit }) {
+function ProductCard({ item, onEdit }) {
   return (
     <View style={styles.card}>
       {/* Top Row: Category Badge + Edit Button */}
@@ -33,6 +33,8 @@ export default function ProductCard({ item, onEdit }) {
     </View>
   );
 }
+
+export default React.memo(ProductCard);
 
 const styles = StyleSheet.create({
   card: {

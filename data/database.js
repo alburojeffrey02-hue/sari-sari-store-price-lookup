@@ -27,21 +27,11 @@ export async function initializeDatabase(db) {
   const row = await db.getFirstAsync('SELECT COUNT(*) as count FROM products');
   if (row && row.count === 0) {
     await db.withTransactionAsync(async () => {
-      const statement = await db.prepareAsync(
-        'INSERT INTO products (name, brand, unit_size, price, category) VALUES ($name, $brand, $unit_size, $price, $category)'
-      );
-      try {
-        for (const item of initialProducts) {
-          await statement.executeAsync({
-            $name: item.name,
-            $brand: item.brand,
-            $unit_size: item.unit_size,
-            $price: item.price,
-            $category: item.category,
-          });
-        }
-      } finally {
-        await statement.finalizeAsync();
+      for (const item of initialProducts) {
+        await db.runAsync(
+          'INSERT INTO products (name, brand, unit_size, price, category) VALUES (?, ?, ?, ?, ?)',
+          [item.name, item.brand, item.unit_size, item.price, item.category]
+        );
       }
     });
   }
